@@ -68,6 +68,7 @@
     <Content Include="FlaskWebProject2\templates\contact.html" />
     <Content Include="FlaskWebProject2\templates\index.html" />
     <Content Include="FlaskWebProject2\templates\layout.html" />
+    <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.6" />
